@@ -72,7 +72,7 @@ const Slide13_SocialImpact = () => {
             <ActivityCard 
                 image="/images/wes1.jpg"
                 title="울산 WEs 문화센터 코딩 강사"
-                desc="지역 아동 및 청소년을 대상으로 한 정기 코딩 교육 봉사. 단순한 코딩 교육을 넘어, 논리적 사고력과 문제 해결 능력을 키우는 데 집중했습니다."
+                desc="성인을 대상으로 한 정기 코딩 교육. 단순한 코딩 교육이 아닌, AI를 통해 코딩을 배우는 방법을 가르칩니다."
                 tags={["Mentoring", "Youth Education", "Volunteer"]}
                 delay={0.2}
             />
@@ -108,7 +108,7 @@ const Slide13_SocialImpact = () => {
                             </div>
                             <div>
                                 <h4 className="font-bold text-white text-lg">바이브 코딩 (Vibe Coding)</h4>
-                                <p className="text-slate-400 text-sm">음악과 코딩을 결합한 융합 교육. 알고리즘을 통해 리듬과 멜로디를 생성하며 코딩의 즐거움 전달</p>
+                                <p className="text-slate-400 text-sm">프롬프트를 이용한 앱 개발 실습</p>
                             </div>
                         </div>
                     </div>
